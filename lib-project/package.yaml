@@ -29,4 +29,5 @@ tests:
     - -threaded
     - -rtsopts
     - -with-rtsopts=-N
-    dependencies: []
+    dependencies:
+    - lib-project
